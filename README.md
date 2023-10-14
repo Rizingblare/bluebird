@@ -1,9 +1,6 @@
 # camp2022_bluebird
 스마일게이트 개발 캠프 2022 - 윈터 개발 캠프 2기 - Blue Bird
 
-The project has been initialized.
-
-
 # 프로젝트 개요
 - 모두가 흥미롭게 개발할 수 있는 공통된 게임 분야이며 개개인의 도전 목표가 적절히 녹아 있는 폴 가이즈의 클론 프로젝트
 
